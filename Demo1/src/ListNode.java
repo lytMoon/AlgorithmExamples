@@ -7,4 +7,8 @@ public class ListNode {
         next = null;
     }
 
+    ListNode() {
+        next = null;
+    }
+
 }
